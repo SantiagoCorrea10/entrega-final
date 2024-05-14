@@ -1,0 +1,69 @@
+/*main*/
+.s_bg__transparent{
+    background-color: transparent;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.titulo__principal{
+    font-family: $titulo-hg;
+    color: $blanco;
+    font-size: 58px;
+    padding-top: 50px;
+}
+.titulo__principal__2{
+    font-family: $titulo-hg;
+    color: $negro;
+    font-size: 58px;
+    text-align: center;
+    padding-top: 50px;
+}
+.s__subtitulo{
+    color: $blanco;
+    font-size: 40px;
+}
+
+.titulo__principal__h3{
+    font-family: $titulo-hg;
+    color: $negro;
+    font-size: 58px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.s__calltoaction{
+    padding-bottom: 50px;
+}
+.s__btn1__color{
+    background-color: $blanco;
+}
+.s__btn2__color{
+    background-color: $gris-oscuro;
+}
+
+.card{
+    background-color: $marron;
+    width: 450px;
+    border-radius: 10px;
+}
+.row{
+    margin-left: 70px;
+    padding-bottom: 50px;
+}
+
+/*aside*/
+
+.rectangle{
+    background-color: $marron;
+}
+
+.parrafo__aside{
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.img__asside{
+    width: auto;
+    padding-bottom: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
